@@ -1,0 +1,58 @@
+<h1>简历</h1>
+<h3>基本信息</h3>
+<p><span>姓名：</span><span>姓名</span></p>
+<p><span>性别：</span><span>男</span></p>
+<p><span>求职岗位：</span><span>前端工程师</span></p>
+<h3>联系方式</h3>
+<p><span>手机：</span><span>18600000000</span></p>
+<p><span>邮箱：</span><a href="mailto:guan648@qq.com">123456@qq.com</a></p>
+<h3>学历</h3>
+<p><span>本科：</span><span>本科大学</span></p>
+<h2>项目经验</h2>
+<table>
+  <tr>
+    <th>项目一</th>
+    <td>找钢社区</td>
+  </tr>
+  <tr>
+    <th>项目时间</th>
+    <td>2018.9-2018.10</td>
+  </tr>
+  <tr>
+    <th>项目简介</th>
+    <td>使用了Next.js框架制作的前端项目，是集浏览、发布和社交于一体的服务钢铁交易项目</td>
+  </tr>
+  <tr>
+    <th>开发模块</th>
+    <td>
+      <ol>
+        <li>帖子发布</li>
+        <li>关注好友列表展示</li>
+        <li>单一帖子展示</li>
+      </ol>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <th>项目二</th>
+    <td>代销订单列表</td>
+  </tr>
+  <tr>
+    <th>项目时间</th>
+    <td>2018.12-2019.1</td>
+  </tr>
+  <tr>
+    <th>项目简介</th>
+    <td>使用了umi.js框架结合Antd Design设计出一种较为复杂的列表展示</td>
+  </tr>
+  <tr>
+    <th>开发模块</th>
+    <td>
+      <ol>
+        <li>订单列表</li>
+        <li>订单详情</li>
+      </ol>
+    </td>
+  </tr>
+</table>
